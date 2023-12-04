@@ -1,0 +1,3 @@
+- Add `SUPABASE_URL` and `SUPABASE_KEY` to `local.properties`.
+- Create a public storage bucket on Supabase with the name `bug` and add policies to allow `read` and `write` access to everyone.
+- Launch the app on Android and upload a file using the `Pick a file : crash` button.
